@@ -44,12 +44,11 @@ Log in<br></p>
 <a href="G:\Computer Science\Registration.html">Register</font></a>
 </td></center>
 <td style="background-color:#eeeeee;height:500px;width:400px;vertical-align:top;"><center>
-Welcome to our site</center>
-<form><p>
- Login: <input type="text" name="login"><br>
- Password: <input type="text" name="password"></td>
+<h1>.....Welcome to our site.....</h1></center>
+<form>
+ <center><p>Login: <input type="text" name="login"></p><br>
+ <p>Password: <input type="text" name="password"></p></center></td>
  </form> 
-</p>
 </tr>
 </tr>
 
